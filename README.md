@@ -1,6 +1,13 @@
+# Counter App
+This is a Counter app
+<hr>
+Deployed Link- https://counter-app-edae3.web.app/
+<hr>
+<img src="counter-redux.png">
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+counter-redux
 
 ## Available Scripts
 
