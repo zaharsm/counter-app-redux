@@ -5,6 +5,9 @@ Deployed Link- https://counter-app-edae3.web.app/
 <hr>
 <img src="counter-redux.png">
 
+
+<img src="https://raw.githubusercontent.com/masai-school/full-stack-dev/master/course/week_10/day_1/redux_basic.gif" >
+
 # Getting Started with Create React App
 
 counter-redux
